@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe React App
 
-Tic-tac-toe game having minimum state comlexity
+game having minimum state comlexity
